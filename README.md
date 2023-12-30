@@ -1,4 +1,4 @@
-# ArgoCD Commands Readme
+# ArgoCD Commands
 
 This document provides a quick reference to the essential commands used for managing ArgoCD, a declarative, GitOps continuous delivery tool for Kubernetes.
 
